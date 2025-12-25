@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md"
+                "file": "DiaryDesigns/Scavenger.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Untitled-2025-12-25-0541.excalidraw"
+              "title": "Scavenger"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md",
+                "file": "DiaryDesigns/Scavenger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled-2025-12-25-0541.excalidraw"
+              "title": "Backlinks for Scavenger"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md",
+                "file": "DiaryDesigns/Scavenger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled-2025-12-25-0541.excalidraw"
+              "title": "Outgoing links from Scavenger"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md",
+                "file": "DiaryDesigns/Scavenger.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled-2025-12-25-0541.excalidraw"
+              "title": "Outline of Scavenger"
             }
           },
           {
@@ -198,13 +198,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "69c8ea4d3ebd85ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,13 +227,15 @@
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "system3-relay:Relay": false
     }
   },
   "active": "5ed7f286c27c7a5a",
   "lastOpenFiles": [
+    "DiaryDesigns/Some Diaries.md",
     "DiaryDesigns/Spellcaster Book 1.md",
-    "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md",
     "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw",
     "Welcome.md",
     "DiaryDesigns/Scavenger.md",
