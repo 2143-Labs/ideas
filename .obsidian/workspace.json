@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "fb1aa871d1af3c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec7a4ae55a61455a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ed7f286c27c7a5a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Untitled-2025-12-25-0541.excalidraw"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ee6799fd0a2003c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ab2cac53876ab8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5dd89377d578d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9aa79088e6091a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f35fae45f5dd49ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba0fe265cec55875",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aee7b37cc6a63206",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7e7ee090a4797086",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6aa548d0a019b52d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1ced8bc347ca2b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a56fe7817b393d20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled-2025-12-25-0541.excalidraw"
+            }
+          },
+          {
+            "id": "0122b5eeeefc2f88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled-2025-12-25-0541.excalidraw"
+            }
+          },
+          {
+            "id": "65116b1ebe999851",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7169e58f5abf6274",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "180eb0433ac7a465",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled-2025-12-25-0541.excalidraw"
+            }
+          },
+          {
+            "id": "6bebfff7c0fc070c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "5ed7f286c27c7a5a",
+  "lastOpenFiles": [
+    "DiaryDesigns/Spellcaster Book 1.md",
+    "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw.md",
+    "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw",
+    "Welcome.md",
+    "DiaryDesigns/Scavenger.md",
+    "DiaryDesigns/Ranger Book 1.md",
+    "DiaryDesigns/Ranger Book 1 1.md",
+    "DiaryDesigns"
+  ]
+}
