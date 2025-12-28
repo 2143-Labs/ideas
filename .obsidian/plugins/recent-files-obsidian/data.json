@@ -5,20 +5,32 @@
       "path": "TODO.md"
     },
     {
+      "basename": "Spellcaster Book 1",
+      "path": "DiaryDesigns/Spellcaster Book 1.md"
+    },
+    {
+      "basename": "Basic Skill",
+      "path": "Basic Skill.md"
+    },
+    {
+      "basename": "Drawing 2025-12-28 03.27.38.excalidraw",
+      "path": "Excalidraw/Drawing 2025-12-28 03.27.38.excalidraw.md"
+    },
+    {
+      "basename": "Combination Skills",
+      "path": "Combination Skills.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
       "basename": "Scavenger",
       "path": "DiaryDesigns/Scavenger.md"
     },
     {
       "basename": "Some Diaries",
       "path": "DiaryDesigns/Some Diaries.md"
-    },
-    {
-      "basename": "Spellcaster Book 1",
-      "path": "DiaryDesigns/Spellcaster Book 1.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "Welcome.md"
     }
   ],
   "omittedPaths": [],

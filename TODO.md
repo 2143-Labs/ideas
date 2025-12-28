@@ -13,4 +13,15 @@
 - Fix singleplayer
 - Fix disconnect button
 - fix the player collider
-- fix spark skill
+
+- Add a separate physics schedule that runs at a near fps rate
+	- https://github.com/2143-Labs/bevy2025/pull/3
+- add skills menu
+- Add targeting menu
+	- Add targeting cursors
+		- Show last hit enemy for some skills
+		- Tab target enemy
+		- Tab target ally
+		- Nearest ally/enemy
+
+https://i.devolved.us/pG2S.png
