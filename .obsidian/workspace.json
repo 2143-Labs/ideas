@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "fb1aa871d1af3c0d",
+    "id": "97081b3d03f9a16f",
     "type": "split",
     "children": [
       {
-        "id": "ec7a4ae55a61455a",
+        "id": "237117e88af87816",
         "type": "tabs",
         "children": [
           {
-            "id": "5ed7f286c27c7a5a",
+            "id": "9fb615fb0d7acc5d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DiaryDesigns/Scavenger.md"
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Scavenger"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9ee6799fd0a2003c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37ab2cac53876ab8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d5dd89377d578d02",
+    "id": "36df99603f5a816c",
     "type": "split",
     "children": [
       {
-        "id": "d9aa79088e6091a2",
+        "id": "61e5fc75b28023f2",
         "type": "tabs",
         "children": [
           {
-            "id": "f35fae45f5dd49ab",
+            "id": "9ffe2126cdc9193b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +48,7 @@
             }
           },
           {
-            "id": "ba0fe265cec55875",
+            "id": "5302e6b2e70ff123",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,23 +65,13 @@
             }
           },
           {
-            "id": "aee7b37cc6a63206",
+            "id": "2b100a7708bcf6a2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "7e7ee090a4797086",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
             }
           }
         ]
@@ -105,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "6aa548d0a019b52d",
+    "id": "f5e2c8037215b5c0",
     "type": "split",
     "children": [
       {
-        "id": "c1ced8bc347ca2b0",
+        "id": "802c0e4adcba68f7",
         "type": "tabs",
         "children": [
           {
-            "id": "a56fe7817b393d20",
+            "id": "d04a888287a0f0db",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DiaryDesigns/Scavenger.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scavenger"
+              "title": "Backlinks for TODO"
             }
           },
           {
-            "id": "0122b5eeeefc2f88",
+            "id": "7856383319e142e5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DiaryDesigns/Scavenger.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scavenger"
+              "title": "Outgoing links from TODO"
             }
           },
           {
-            "id": "65116b1ebe999851",
+            "id": "bd251ff0515d6223",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,7 +137,7 @@
             }
           },
           {
-            "id": "7169e58f5abf6274",
+            "id": "eba18e36a9ee4c4c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,22 +151,22 @@
             }
           },
           {
-            "id": "180eb0433ac7a465",
+            "id": "de13257bab9290c8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DiaryDesigns/Scavenger.md",
+                "file": "TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scavenger"
+              "title": "Outline of TODO"
             }
           },
           {
-            "id": "6bebfff7c0fc070c",
+            "id": "21a5b21dea7d819e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -200,7 +176,7 @@
             }
           },
           {
-            "id": "69c8ea4d3ebd85ed",
+            "id": "85f6be74ed95be30",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -218,29 +194,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "system3-relay:Relay": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "system3-relay:Relay": false
+      "bases:Create new base": false
     }
   },
-  "active": "5ed7f286c27c7a5a",
+  "active": "85f6be74ed95be30",
   "lastOpenFiles": [
+    "ideas/Welcome.md",
+    "ideas/DiaryDesigns/Spellcaster Book 1.md",
+    "ideas/DiaryDesigns/Some Diaries.md",
+    "ideas/DiaryDesigns/Scavenger.md",
+    "ideas/DiaryDesigns/Ranger Book 1.md",
+    "ideas/DiaryDesigns/Ranger Book 1 1.md",
+    "ideas/DiaryDesigns",
+    "ideas",
+    "TODO.md",
+    "DiaryDesigns/Scavenger.md",
     "DiaryDesigns/Some Diaries.md",
     "DiaryDesigns/Spellcaster Book 1.md",
-    "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw",
-    "Welcome.md",
-    "DiaryDesigns/Scavenger.md",
     "DiaryDesigns/Ranger Book 1.md",
     "DiaryDesigns/Ranger Book 1 1.md",
-    "DiaryDesigns"
+    "DiaryDesigns",
+    "Welcome.md"
   ]
 }

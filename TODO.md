@@ -1,0 +1,16 @@
+- Networked Animations
+- Networked Effects
+- Networked Projectiles
+- Only send network update for physics entity on collision
+	- Split into many types of `NetworkedLocation`events
+		- one for players (networked playercontrol emulated on the clients nearby)
+		- one for "simple" physics (props)
+		- one for ai units (network ai state)
+		- one for 
+- Show ping and connection info for players
+	- packet loss %
+	- server tps
+- Fix singleplayer
+- Fix disconnect button
+- fix the player collider
+- fix spark skill
