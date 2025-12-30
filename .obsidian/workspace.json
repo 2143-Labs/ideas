@@ -11,6 +11,10 @@
             "id": "9fb615fb0d7acc5d",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
                 "file": "TODO.md",
@@ -25,6 +29,7 @@
             "id": "ab01eb92eafc723c",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2025-12-28 03.27.38.excalidraw.md"
@@ -73,6 +78,155 @@
               },
               "icon": "lucide-file",
               "title": "TODO"
+||||||| Stash base
+              "type": "excalidraw",
+              "state": {
+                "file": "DiaryDesigns/Scavenger.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Scavenger"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ee6799fd0a2003c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ab2cac53876ab8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+||||||| Stash base
+              "type": "excalidraw",
+              "state": {
+                "file": "DiaryDesigns/Scavenger.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Scavenger"
+||||||| Stash base
+              "type": "excalidraw",
+              "state": {
+                "file": "DiaryDesigns/Scavenger.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Scavenger"
+||||||| Stash base
+              "type": "excalidraw",
+              "state": {
+                "file": "DiaryDesigns/Scavenger.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Scavenger"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ee6799fd0a2003c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ab2cac53876ab8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+=======
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> Stashed changes
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ee6799fd0a2003c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ab2cac53876ab8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+||||||| Stash base
+              "type": "excalidraw",
+              "state": {
+                "file": "DiaryDesigns/Scavenger.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Scavenger"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ee6799fd0a2003c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ab2cac53876ab8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+=======
+              "type": "empty",
+>>>>>>> Stashed changes
+              "state": {},
+<<<<<<< Updated upstream
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+=======
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+=======
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> Stashed changes
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ee6799fd0a2003c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ab2cac53876ab8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+=======
+              "type": "empty",
+>>>>>>> Stashed changes
+              "state": {},
+<<<<<<< Updated upstream
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+=======
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+=======
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -149,7 +303,37 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "TODO.md",
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +343,37 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "Backlinks for TODO"
+||||||| Stash base
+              "title": "Backlinks for Scavenger"
+=======
+              "title": "Backlinks for On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Backlinks for Scavenger"
+=======
+              "title": "Backlinks for On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Backlinks for Scavenger"
+=======
+              "title": "Backlinks for On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Backlinks for Scavenger"
+=======
+              "title": "Backlinks for On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Backlinks for Scavenger"
+=======
+              "title": "Backlinks for On Movement"
+>>>>>>> Stashed changes
             }
           },
           {
@@ -168,12 +382,72 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "TODO.md",
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "Outgoing links from TODO"
+||||||| Stash base
+              "title": "Outgoing links from Scavenger"
+=======
+              "title": "Outgoing links from On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Outgoing links from Scavenger"
+=======
+              "title": "Outgoing links from On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Outgoing links from Scavenger"
+=======
+              "title": "Outgoing links from On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Outgoing links from Scavenger"
+=======
+              "title": "Outgoing links from On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Outgoing links from Scavenger"
+=======
+              "title": "Outgoing links from On Movement"
+>>>>>>> Stashed changes
             }
           },
           {
@@ -211,13 +485,73 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "TODO.md",
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
+||||||| Stash base
+                "file": "DiaryDesigns/Scavenger.md",
+=======
+                "file": "On Movement.md",
+>>>>>>> Stashed changes
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "Outline of TODO"
+||||||| Stash base
+              "title": "Outline of Scavenger"
+=======
+              "title": "Outline of On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Outline of Scavenger"
+=======
+              "title": "Outline of On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Outline of Scavenger"
+=======
+              "title": "Outline of On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Outline of Scavenger"
+=======
+              "title": "Outline of On Movement"
+>>>>>>> Stashed changes
+||||||| Stash base
+              "title": "Outline of Scavenger"
+=======
+              "title": "Outline of On Movement"
+>>>>>>> Stashed changes
             }
           },
           {
@@ -245,7 +579,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,7 +600,115 @@
   },
   "active": "ff19c84ff0f8f214",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+||||||| Stash base
+||||||| Stash base
+=======
+    "TODO.md",
+    "On Movement.md",
+    "DiaryDesigns/Ranger Book 1.md",
+    "Excalidraw/Drawing 2025-12-28 03.27.38.excalidraw.md",
+    "Basic Skill.md",
+    "Welcome.md",
+    "Combination Skills.md",
+    "DiaryDesigns/Scavenger.md",
+    "Excalidraw",
+    "ideas/DiaryDesigns/Some Diaries.md",
+    "ideas/DiaryDesigns/Spellcaster Book 1.md",
+    "ideas/DiaryDesigns/Scavenger.md",
+    "ideas/DiaryDesigns/Ranger Book 1.md",
+    "ideas/DiaryDesigns/Ranger Book 1 1.md",
+    "ideas/Welcome.md",
+    "ideas/DiaryDesigns",
+    "ideas",
+>>>>>>> Stashed changes
+||||||| Stash base
+=======
+    "TODO.md",
+    "On Movement.md",
+    "DiaryDesigns/Ranger Book 1.md",
+    "Excalidraw/Drawing 2025-12-28 03.27.38.excalidraw.md",
+    "Basic Skill.md",
+    "Welcome.md",
+    "Combination Skills.md",
+    "DiaryDesigns/Scavenger.md",
+    "Excalidraw",
+    "ideas/DiaryDesigns/Some Diaries.md",
+    "ideas/DiaryDesigns/Spellcaster Book 1.md",
+    "ideas/DiaryDesigns/Scavenger.md",
+    "ideas/DiaryDesigns/Ranger Book 1.md",
+    "ideas/DiaryDesigns/Ranger Book 1 1.md",
+    "ideas/Welcome.md",
+    "ideas/DiaryDesigns",
+    "ideas",
+>>>>>>> Stashed changes
+||||||| Stash base
+=======
+    "TODO.md",
+    "On Movement.md",
+    "DiaryDesigns/Ranger Book 1.md",
+    "Excalidraw/Drawing 2025-12-28 03.27.38.excalidraw.md",
+    "Basic Skill.md",
+    "Welcome.md",
+    "Combination Skills.md",
+    "DiaryDesigns/Scavenger.md",
+    "Excalidraw",
+    "ideas/DiaryDesigns/Some Diaries.md",
+    "ideas/DiaryDesigns/Spellcaster Book 1.md",
+    "ideas/DiaryDesigns/Scavenger.md",
+    "ideas/DiaryDesigns/Ranger Book 1.md",
+    "ideas/DiaryDesigns/Ranger Book 1 1.md",
+    "ideas/Welcome.md",
+    "ideas/DiaryDesigns",
+    "ideas",
+>>>>>>> Stashed changes
+||||||| Stash base
+=======
+    "TODO.md",
+    "On Movement.md",
+    "DiaryDesigns/Ranger Book 1.md",
+    "Excalidraw/Drawing 2025-12-28 03.27.38.excalidraw.md",
+    "Basic Skill.md",
+    "Welcome.md",
+    "Combination Skills.md",
+    "DiaryDesigns/Scavenger.md",
+    "Excalidraw",
+    "ideas/DiaryDesigns/Some Diaries.md",
+    "ideas/DiaryDesigns/Spellcaster Book 1.md",
+    "ideas/DiaryDesigns/Scavenger.md",
+    "ideas/DiaryDesigns/Ranger Book 1.md",
+    "ideas/DiaryDesigns/Ranger Book 1 1.md",
+    "ideas/Welcome.md",
+    "ideas/DiaryDesigns",
+    "ideas",
+>>>>>>> Stashed changes
+    "DiaryDesigns/Some Diaries.md",
+=======
+    "TODO.md",
+    "On Movement.md",
+    "DiaryDesigns/Ranger Book 1.md",
+    "Excalidraw/Drawing 2025-12-28 03.27.38.excalidraw.md",
+    "Basic Skill.md",
+    "Welcome.md",
+    "Combination Skills.md",
+    "DiaryDesigns/Scavenger.md",
+    "Excalidraw",
+    "ideas/DiaryDesigns/Some Diaries.md",
+    "ideas/DiaryDesigns/Spellcaster Book 1.md",
+    "ideas/DiaryDesigns/Scavenger.md",
+    "ideas/DiaryDesigns/Ranger Book 1.md",
+    "ideas/DiaryDesigns/Ranger Book 1 1.md",
+    "ideas/Welcome.md",
+    "ideas/DiaryDesigns",
+    "ideas",
+    "DiaryDesigns/Some Diaries.md",
+>>>>>>> Stashed changes
     "DiaryDesigns/Spellcaster Book 1.md",
+<<<<<<< Updated upstream
     "Basic Skill.md",
     "Excalidraw/Drawing 2025-12-28 03.27.38.excalidraw.md",
     "Combination Skills.md",
@@ -283,6 +726,42 @@
     "DiaryDesigns/Scavenger.md",
     "DiaryDesigns/Some Diaries.md",
     "DiaryDesigns/Ranger Book 1.md",
+||||||| Stash base
+    "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    "Welcome.md",
+    "DiaryDesigns/Scavenger.md",
+    "DiaryDesigns/Ranger Book 1.md",
+=======
+    "DiaryDesigns/Untitled-2025-12-25-0541.excalidraw",
+>>>>>>> Stashed changes
+||||||| Stash base
+    "Welcome.md",
+    "DiaryDesigns/Scavenger.md",
+    "DiaryDesigns/Ranger Book 1.md",
+=======
+>>>>>>> Stashed changes
+||||||| Stash base
+    "Welcome.md",
+    "DiaryDesigns/Scavenger.md",
+    "DiaryDesigns/Ranger Book 1.md",
+=======
+>>>>>>> Stashed changes
+||||||| Stash base
+    "Welcome.md",
+    "DiaryDesigns/Scavenger.md",
+    "DiaryDesigns/Ranger Book 1.md",
+=======
+>>>>>>> Stashed changes
+||||||| Stash base
+    "Welcome.md",
+    "DiaryDesigns/Scavenger.md",
+    "DiaryDesigns/Ranger Book 1.md",
+=======
+>>>>>>> Stashed changes
     "DiaryDesigns/Ranger Book 1 1.md",
     "DiaryDesigns"
   ]
