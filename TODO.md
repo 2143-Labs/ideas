@@ -23,5 +23,11 @@
 		- Tab target enemy
 		- Tab target ally
 		- Nearest ally/enemy
+- Make items affect your movemnts and visible stats
+- Make "Dead" component event work
+- figure out how to have a component event on only client/server and not both
+- Allow all units to be automatically networked
+- make web version work
+- 
 
 https://i.devolved.us/pG2S.png
