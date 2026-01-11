@@ -1,0 +1,5 @@
+
+# Health
+# Stamina
+# Mana
+

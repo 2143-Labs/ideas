@@ -100,9 +100,75 @@
               "icon": "excalidraw-icon",
               "title": "Ranger Book 1"
             }
+          },
+          {
+            "id": "63653e987c23c40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "5ba80df5a6c943f2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DiaryDesigns/Ranger Book 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ranger Book 1"
+            }
+          },
+          {
+            "id": "8a8c43fc9ea78410",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DiaryDesigns/Scavenger.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Scavenger"
+            }
+          },
+          {
+            "id": "0cdcdb45a34ac2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "596f5374703a71f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -289,32 +355,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "d72731afd8b6846d",
+  "active": "596f5374703a71f3",
   "lastOpenFiles": [
+    "Tenets.md",
+    "Resource Types.md",
+    "Experimental Ideas/ARG.md",
+    "Experimental Ideas",
+    "Excalidraw/login and auth flows to start.md",
+    "TODO.md",
+    "DiaryDesigns/Scavenger.md",
+    "DiaryDesigns/Ranger Book 1.md",
+    "DiaryDesigns/Ranger Book 1 1.md",
+    "DiaryDesigns/Spellcaster Book 1.md",
+    "DiaryDesigns/Some Diaries.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Mage Page.excalidraw.md",
     "Untitled 1.md",
     "Untitled.md",
-    "TODO.md",
     "Combination Skills.md",
     "Excalidraw/Drawing 2025-12-30 01.58.22.excalidraw.md",
     "Excalidraw/Drawing 2025-12-28 03.27.38.excalidraw.md",
     "Basic Skill.md",
     "Excalidraw",
     "On Movement.md",
-    "DiaryDesigns/Spellcaster Book 1.md",
     "Welcome.md",
     "ideas/Welcome.md",
     "ideas/DiaryDesigns/Spellcaster Book 1.md",
     "ideas/DiaryDesigns/Some Diaries.md",
     "ideas/DiaryDesigns/Scavenger.md",
     "ideas/DiaryDesigns/Ranger Book 1.md",
-    "ideas/DiaryDesigns/Ranger Book 1 1.md",
     "ideas/DiaryDesigns",
     "ideas",
-    "DiaryDesigns/Scavenger.md",
-    "DiaryDesigns/Some Diaries.md",
-    "DiaryDesigns/Ranger Book 1.md",
-    "DiaryDesigns/Ranger Book 1 1.md",
     "DiaryDesigns"
   ]
 }

@@ -1,0 +1,1 @@
+An ARG (Augmented Reality Game) is a game going beyond its normal medium. It favors exploration and experimentation in unique and non-linear ways. An ARG could begin with a clue in a video game, which leads to a website, which leads to a physical scavenger hunt, which leads finally to a unique video game item.

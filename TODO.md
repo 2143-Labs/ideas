@@ -31,3 +31,36 @@
 - 
 
 https://i.devolved.us/pG2S.png
+
+
+- Collision with projectiles
+- enemies and enemy ai
+- add stats system
+- add skills
+- fix going back to menu
+- make client disconnect if the server times out
+
+
+
+
+
+BEVY PICKING
+
+TERRAIN SPAWN EXTRACT
+
+SPAWN SECOND ZONE
+}
+p
+
+
+
+
+
+
+
+ability to aim at cursor
+ability to aim at point in front of you as cursor
+ability to tab target stuff
+
+
+
